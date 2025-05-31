@@ -14,7 +14,7 @@ Part list:
 
 # Assembly
 
-![](touch-synth-breadboard.png)
+![Diagram of the wiring on a breadboard](touch-synth-breadboard.png)
 
  - Start by pressing the Noise Nugget 2040 Breakout on the breadboard. Make
    sure the Breakout is centered so one line of connectors is available on each
