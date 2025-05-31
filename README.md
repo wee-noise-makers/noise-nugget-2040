@@ -10,4 +10,5 @@ focus on what makes your ideas unique.
 
 Navigation:
 
+ - [Noise Nugget 2040 Devkit](devkit/)
  - [Noise Nugget 2040 Breakout](breakout/)
